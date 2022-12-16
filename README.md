@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khusanboytursunov
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Php
-- 📫 How to reach me t.me/vebmuhandis
+- 📫 How to reach me https://t.me/vebmuhandis
 
 <!---
 khusanboytursunov/khusanboytursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
