@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khusanboytursunov
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Php
+- 🌱 I’m currently learning Php & Laravel
 - 📫 How to reach me https://t.me/vebmuhandis
 
 <!---
