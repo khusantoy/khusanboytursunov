@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Php & Laravel
 - 📫 How to reach me https://t.me/vebmuhandis
-- 👨‍💻 All of my projects are available at [![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/khusanboy_codes) 
+- 👨‍💻 All of my projects are available at https://t.me/khusanboy_codes
 
 <!---
 khusanboytursunov/khusanboytursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
