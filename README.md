@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khusanboytursunov
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Technologies
 - 🌱 I’m currently learning Php
 - 📫 How to reach me https://t.me/vebmuhandis
 - 🌐 My web-site http://xusanboy.42web.io
