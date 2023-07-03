@@ -2,7 +2,6 @@
 - 👀 I’m interested in Technologies
 - 🌱 I’m currently learning Php
 - 📫 How to reach me https://t.me/xusanboy_tursunov
-- 🌐 My web-site http://xusanboy.42web.io
 - 👨‍💻 All of my projects are available at https://t.me/khusanboy_codes
 
 <!---
